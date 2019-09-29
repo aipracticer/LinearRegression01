@@ -1,5 +1,5 @@
 # LinearRegression01
-The repository contains linear regression model training using sklearn and data visualization with matplotlib.
+The repository contains linear regression model training for economic income and consumption using sklearn and data visualization with matplotlib.
 
 #### lr_ml.py
 Functions in the code are:

@@ -1,7 +1,7 @@
 # LinearRegression01
 The repository contains linear regression model training using sklearn and data visualization with matplotlib.
 
-functions in the code:
+Functions in the code are:
 > def evaluateModel(self, model, test_data, features, labels) # evaluate model
 
 > def visualizeModel(self, model, data, feature_names, label_names, error, score) # visualize model 
